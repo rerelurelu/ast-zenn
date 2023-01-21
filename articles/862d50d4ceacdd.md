@@ -3,7 +3,7 @@ title: 'API Gateway をトリガーに AWS Lambda を動かしてみる'
 emoji: '🐥'
 type: 'tech' # tech: 技術記事 / idea: アイデア
 topics: ['lambda', 'aws', 'python']
-published: false
+published: true
 ---
 
 こんにちは 👋
