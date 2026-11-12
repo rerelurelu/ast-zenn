@@ -1,6 +1,10 @@
 {
   "filters": {},
   "rules": {
+    "terminology": {
+      "skip": ["BlockQuote", "Link"],
+      "exclude": ["to-?do(s)?(?=[ ,.])"]
+    },
     "preset-ja-technical-writing": {
         "no-exclamation-question-mark": {
         "allowFullWidthExclamation": true,
